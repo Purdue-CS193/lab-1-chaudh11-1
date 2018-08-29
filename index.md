@@ -1,7 +1,9 @@
-### this
-## is
-# testing
-123
+# Neel Chaudhari's first CS193 Lab
+
+Favorite things about CS193:
+- It provides me with useful CS skills not taught in other classes
+- It lets me practice what I may have learned outside
+- The instructors are cool and helpful
 
 ## Welcome to GitHub Pages
 
